@@ -59,6 +59,7 @@ h1, h2, h3, h4, h5, h6 { @extend %poppins; }
 .btn {
     border: 2px solid;
     border-radius: 0;
+    margin: 5px;
     &.btn-primary {
         border-color: #ffffff;
         background-color: transparent;
