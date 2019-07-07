@@ -1,12 +1,12 @@
 {
     "basics": {
-      "name": "Steven Kissack",
+      "name": "Skip Hendriks",
       "label": "Software Developer",
       "picture": "/images/profile-android.png",
-      "email": "Steven.Kissack@gmail.com",
+      "email": "sigmar001@gmail.com",
       "phone": null,
-      "website": "https://www.stevenkissack.com",
-      "summary": "Currently travelling and working remotely on interesting projects. Reach out if you're in need for a technical consultant for your company. I hold a Manx (British National) and Irish Citizenship.",
+      "website": "https://skiphendriks.github.io",
+      "summary": "Currently travelling and looking for a development job in Australia. Remote oppertunities will be concidered as well. I am a Dutch citizen.",
       "location": {
         "address": "",
         "postalCode": "",
@@ -15,30 +15,31 @@
         "region": ""
       },
       "birth": {
-        "place": "Isle of Man",
+        "place": "The Netherlands",
         "date": "1991"
       },
       "profiles": [
         {
           "network": "Github",
-          "username": "stevokk",
-          "url": "https://github.com/stevokk"
+          "username": "skiphendriks",
+          "url": "https://github.com/skiphendriks"
         },
         {
           "network": "LinkedIn",
-          "username": "Steven Kissack",
-          "url": "https://www.linkedin.com/in/steven-kissack-68882337/"
+          "username": "Skip Hendriks",
+          "url": "https://www.linkedin.com/in/skip-hendriks-29abb318a/"
         }
       ]
     },
     "work": [
       {
-        "company": "Osar Consultancy",
-        "position": "Co-Founder",
-        "website": "http://www.osar.im",
-        "startDate": "2019-02-20",
-        "summary": "Launched a techincal consultancy firm focussed on customer satisfaction and honesty over profits. Working on delivering both private and open-source projects, the hope is to create a trustworthy digital development partner undivided by profits.",
-        "highlights": ["Architecture", "Consultancy", "Development", "Planning", "DevOps", "Cloud Services", "Analysis"]
+        "company": "OmniHis B.V.",
+        "position": "Junior Software Developer",
+        "website": "http://www.omnihis.con",
+        "startDate": "2015-12-01",
+	"endDate": "2018-03-01",
+        "summary": "Worked on a HIS (General Practitioner Information System), doing both maintenance and development. Since this was a legacy codebase maintenance far outweighed development. Working there I've tried to upgrade the codebase using modern methodologies like MVC and helped build a proprietary unit-testing system.",
+        "highlights": ["Development", "Planning", "OsX", "Omnis", "MySQL", "Sikuli", "Jenkins", "GitLab", "Agile", "Jira", "JavaScript", "jQuery", "Java"]
       },
       {
         "company": "GreySnowPoker",

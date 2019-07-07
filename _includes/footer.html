@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <a href="/">{{ site.data.global.title }}</a>
+                    <a href="/">{{ site.data.global.personal_name }}</a>
                     <p class="text-muted">All Rights Reserved</p>
                 </div>
                 <!-- Only shown on subpages -->
@@ -12,28 +12,8 @@
                     <ul class="list-unstyled">
                         <li><a href="{{site.data.global.personal_linkedin}}">LinkedIn</a></li>
                         <li><a href="{{site.data.global.personal_github}}">Github</a></li>
-                        <li><a href="mailto:{{site.data.global.personal_email}}">{{site.data.global.personal_email}}</a></li>
+                        <li><a href="mailto:{{site.data.global.personal_email}}">{{site.data.global.personal_name}}</a></li>
                     </ul>
-                    <!--<h4>Request a Call Back</h4>
-                    <form action="https://formspree.io/{{site.data.global.personal_email}}" method="POST">
-                    <div class="form-group field-spacing">
-                        <input type="text" class="form-control" name="name" placeholder="Name" required>
-                        <input type="text" class="form-control" name="phoneNumber" placeholder="Phone Number" required>
-                        <input type="text" class="form-control" name="_replyto" placeholder="Email Address (optional)" />
-                        <textarea class="form-control" rows="3" name="description" placeholder="Description (optional)"></textarea>
-                        <input type="hidden" name="_subject" value="Personal Site Callback Enquiry" />
-                        <input type="hidden" name="_next" value="http://www.stevenkissack.com/" />
-                        <input class="btn btn-primary" type="submit" value="Send">
-                    </form>-->
-                    <!--
-                    Listing of Nav Options
-                    <ul>
-                        {% for item in site.data.nav.main %}
-                            <li>
-                                <a href="{{ item.url }}">{{ item.text }}</a>
-                            </li>
-                        {% endfor %}
-                    </ul>-->
                 </div>
             </div>
         </div>
