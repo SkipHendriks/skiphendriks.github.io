@@ -253,7 +253,8 @@ nav>li>a:hover {
     margin-top: 200px;
     h1, h2, h3 {
         margin-top: 0;
-        margin-bottom: 0; 
+        margin-bottom: 3px;
+	padding-left: 2px; 
     }
 }
 
@@ -262,6 +263,10 @@ nav>li>a:hover {
     background-color: transparent;
     border: 1px solid #777;
     color: #3a3a3a;
+}
+
+li > a {
+    padding-left: 4px;
 }
 
 // Future Bootstrap 4 class (not sure on value = em)
@@ -331,6 +336,10 @@ nav>li>a:hover {
 
 .pr-1 {
     padding-right: 1em;
+}
+
+.rounded {
+    border-radius: 50%;
 }
 
 .w-100 {
