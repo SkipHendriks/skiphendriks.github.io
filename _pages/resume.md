@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 
 <div class="row mt-3">
-    <div class="col-xs-8">
+    <div class="col-xs-9">
         <h1>{{site.data.resume.basics.name}}</h1>
         <h3>{{site.data.resume.basics.label}}</h3>
         <ul class="list-unstyled mt-1">
@@ -14,7 +14,7 @@ permalink: /resume/
             <li><a href="{{site.data.resume.basics.website}}" class="hide-print-url"><i class="fas fa-globe-americas mr-1"></i> {{site.data.resume.basics.website}}</a></li>
         </ul>
     </div>
-    <div class="col-xs-4">
+    <div class="col-xs-3">
         <img src="{{site.data.resume.basics.picture}}" alt="android profile picture" class="rounded pull-right img-responsive"/>
     </div>
 </div>
