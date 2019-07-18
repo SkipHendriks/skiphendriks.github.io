@@ -4,9 +4,9 @@
       "label": "Software Developer",
       "picture": "/images/me-square.jpg",
       "email": "sigmar001@gmail.com",
-      "phone": null,
+      "phone": "0411574303",
       "website": "https://skiphendriks.github.io",
-      "summary": "Currently travelling and looking for a development job in Australia. Remote oppertunities will be concidered as well. I am a Dutch citizen.",
+      "summary": "Currently travelling and looking for a development job in Australia. Remote oppertunities will be concidered as well. I am a Dutch citizen on a working holiday visa.",
       "location": {
         "address": "",
         "postalCode": "",
@@ -51,7 +51,7 @@
         "startDate": "2011-09-01",
         "endDate": "2015-09-01",
         "gpa": "",
-        "courses": ["Minor Artificial Intelligence", "Java", "Prolog", "Linear Algebra"]
+        "courses": ["Minor Artificial Intelligence", "Java", "Prolog", "Linear Algebra", "Computational Musicology"]
       },
       {
         "institution": "Arentheem College",
@@ -88,7 +88,7 @@
           "MongoDB / Mongoose",
           "Linux",
           "Git",
-          "CI/CD",
+          "CI / CD"
         ]
       },
       {
@@ -112,7 +112,9 @@
         "name": "Soft Skills",
         "keywords": [
           "User stories",
-          "Scrum / Agile"
+          "Scrum / Agile",
+          "Documentation",
+          "Code reviews"
         ]
       },
       {
@@ -122,6 +124,14 @@
           "Wordpress",
           "jQuery",
           "Java"
+        ]
+      },
+      {
+        "name": "Next Up",
+        "keywords": [
+          "Next.js",
+          "React Native",
+          "Rust"
         ]
       }
     ],
