@@ -69,8 +69,13 @@ permalink: /resume/
             </div>
         </div>
     </div>
-    <div class="col-lg-11 col-lg-offset-1 mb-1">
+    <div class="col-lg-11 col-lg-offset-1">
         <p><strong>{{qualification.studyType}}&nbsp;{{qualification.area}}</strong>&nbsp;{{ qualification.gpa }}</p>
+    </div>
+    <div class="col-lg-11 col-lg-offset-1 mb-1">
+        {% for tag in qualification.courses %}
+        <span class="badge">{{tag}}</span>
+        {% endfor %}
     </div>
 </div>
 {% endfor %}
