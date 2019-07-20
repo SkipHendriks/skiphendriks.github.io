@@ -35,7 +35,7 @@
       {
         "company": "OmniHis B.V.",
         "position": "Junior Software Developer",
-        "website": "http://www.omnihis.con",
+        "website": "https://www.omnihis.nl",
         "startDate": "2015-12-01",
 	"endDate": "2018-03-01",
         "summary": "Worked on a HIS (General Practitioner Information System), doing both maintenance and development. Since this was a legacy codebase maintenance far outweighed development. Working there I've tried to upgrade the codebase using modern methodologies like MVC and helped build a proprietary unit-testing system.",
