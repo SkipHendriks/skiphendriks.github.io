@@ -4,9 +4,9 @@
       "label": "Software Developer",
       "picture": "/images/me-square.jpg",
       "email": "sigmar001@gmail.com",
-      "phone": "0411574303",
+      "phone": "+31643049991",
       "website": "https://skiphendriks.github.io",
-      "summary": "Currently travelling and looking for a development job in Australia. Remote oppertunities will be concidered as well. I am a Dutch citizen on a working holiday visa.",
+      "summary": "Currently travelling and looking for a remote development opportunity. My time zone will be GMT+7 for the next 5 months. I am a Dutch citizen and enjoy work rights in all of the European Union.",
       "location": {
         "address": "",
         "postalCode": "",
@@ -38,7 +38,7 @@
         "website": "https://www.omnihis.nl",
         "startDate": "2015-12-01",
 	"endDate": "2018-03-01",
-        "summary": "Worked on a HIS (General Practitioner Information System), doing both maintenance and development. Since this was a legacy codebase maintenance far outweighed development. Working there I've tried to upgrade the codebase using modern methodologies like MVC and helped build a proprietary unit-testing system.",
+        "summary": "Worked on a HIS (General Practitioner Information System), doing both maintenance and development. Since this was a legacy codebase maintenance far outweighed development. Working there I've tried to upgrade the codebase using modern methodologies and helped build a proprietary unit-testing library.",
         "highlights": ["Development", "macOS", "Omnis", "MySQL", "Sikuli", "Jenkins", "GitLab", "Agile", "Jira", "JavaScript", "jQuery", "Java"]
       }
     ],
@@ -105,6 +105,7 @@
         "name": "Currently Learning",
         "keywords": [
           "Improving all the above",
+          "Material UI",
           "Spanish"
         ]
       },
